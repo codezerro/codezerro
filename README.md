@@ -35,7 +35,7 @@ Currently, I’m diving deep into **ROS2, reinforcement learning, and end-to-end
 ## 🚀 Featured Projects  
 
 - 🔹 **[PDIFY](https://github.com/)** → Chrome extension to create PDFs from online images securely in-browser  
-- 🔹 **End-to-End Visual Control Exercise (GSoC '25)** → Deep learning–based control pipeline for simulated autonomous vehicles  
+- 🔹 **[End-to-End Visual Control Exercise (GSoC '25)](https://theroboticsclub.github.io/gsoc2025-Md_Shariar_Kabir/blog/2025/gsoc-2025-recap/)** → Deep learning–based control pipeline for simulated autonomous vehicles  
 
 ---
 
