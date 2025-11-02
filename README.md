@@ -49,7 +49,6 @@ Currently, I’m diving deep into **ROS2, reinforcement learning, and end-to-end
 ## 🤝 Let’s Connect  
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/md-shariar-kabir)  
-- 🌐 [Portfolio](#) *(coming soon)*  
 
 
 ---
