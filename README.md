@@ -1,6 +1,6 @@
 # 👋 Hi, I'm MD. Shariar Kabir  
 
-🚀 **CSE Graduate | Software Developer | Open-Source Contributor | GSoC '25 @ JdeRobot**  
+🚀 **Software Engineer at Banglalink | Open-Source Contributor | GSoC '25 @ JdeRobot | CSE Graduate**  
 
 I’m passionate about building **AI-powered applications, robotics software, and scalable web/mobile solutions**.  
 Currently, I’m diving deep into **ROS2, reinforcement learning, and end-to-end visual control models for autonomous vehicles**.  
